@@ -8,6 +8,7 @@ from multiselectfield import MultiSelectField
 
 class Car(models.Model):
 
+                    # Drop Down Choices for state
     state_choice = (
 
         ('AL', 'Alabama'),
@@ -63,11 +64,11 @@ class Car(models.Model):
         ('WY', 'Wyoming'),
     )
 
-    year_choice = []
+    year_choice = []        # looping for years till now
     for r in range(2000,(datetime.now().year+1)):
         year_choice.append((r,r))
 
-    
+        # car Features DropDown
     features_choices = (
         ('Cruise Control', 'Cruise Control'),
         ('Audio Interface', 'Audio Interface'),
@@ -84,6 +85,7 @@ class Car(models.Model):
         ('Bluetooth Handset', 'Bluetooth Handset'),
     )
 
+        # Car Door DropDown
     door_choices = (
         ('2', '2'),
         ('3', '3'),
@@ -109,8 +111,9 @@ class Car(models.Model):
     price = models.IntegerField()
 
     description = RichTextField(max_length=5000) #Rich Text Editor
-    
-    car_photo = models.ImageField(upload_to='photos/%y/%m/%d')
+
+            # Storing Photo in year/month/date 
+    car_photo = models.ImageField(upload_to='photos/%y/%m/%d') 
     car_photo_1 = models.ImageField(upload_to='photos/%y/%m/%d',blank=True)
     car_photo_2 = models.ImageField(upload_to='photos/%y/%m/%d',blank=True)
     car_photo_3 = models.ImageField(upload_to='photos/%y/%m/%d',blank=True)

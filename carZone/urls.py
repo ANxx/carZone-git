@@ -24,4 +24,5 @@ urlpatterns = [
     path('admin/', admin.site.urls),
     path('',include('pages.urls')),
     path('cars/',include('cars.urls'))
-] + static(settings.MEDIA_URL, document_root = MEDIA_ROOT)
+] + static(settings.MEDIA_URL, document_root = MEDIA_ROOT) # Media car Images(Display + inside) 
+                                                                # with date and month folder

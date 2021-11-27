@@ -4,6 +4,7 @@ from django.utils.html import format_html
 
 # Register your models here.
 class TeamAdmin(admin.ModelAdmin):
+
     def thumbnail(self,obj):
         return format_html('<img src="{}" width="40" style="border-radius:50px"/>'.format(obj.photo.url))
     thumbnail.short_description = 'Photo'
@@ -12,4 +13,6 @@ class TeamAdmin(admin.ModelAdmin):
     list_display_links = ('first_name', 'id')
     search_fields = ('first_name', 'last_name','designation')
     list_filter = ('designation',)
+
+
 admin.site.register(Team, TeamAdmin)

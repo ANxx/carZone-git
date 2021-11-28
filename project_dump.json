@@ -1,0 +1,910 @@
+[
+{
+    "model": "cars.car",
+    "pk": 1,
+    "fields": {
+        "car_title": "2017 Ferrari 488 GTB",
+        "state": "TX",
+        "city": "Austin",
+        "color": "White",
+        "model": "488 GTB",
+        "year": 2017,
+        "condition": "USED",
+        "price": 40002,
+        "description": "<p>The <strong>Ferrari 488</strong> (Type F142M) is a <a class=\"mw-redirect\" href=\"https://en.wikipedia.org/wiki/Rear_mid-engine,_rear-wheel_drive_layout\" title=\"Rear mid-engine, rear-wheel drive layout\">mid-engine</a> <a href=\"https://en.wikipedia.org/wiki/Sports_car\" title=\"Sports car\">sports car</a> produced by the Italian automobile manufacturer <a href=\"https://en.wikipedia.org/wiki/Ferrari\" title=\"Ferrari\">Ferrari</a>. The car replaced the <a href=\"https://en.wikipedia.org/wiki/Ferrari_458\" title=\"Ferrari 458\">458</a>, being the first mid-engine Ferrari to use a turbocharged V8 since the <a href=\"https://en.wikipedia.org/wiki/Ferrari_F40\" title=\"Ferrari F40\">F40</a>.</p>\r\n\r\n<p>&nbsp;</p>",
+        "car_photo": "photos/21/10/26/1902536891.jpg",
+        "car_photo_1": "photos/21/10/26/1902536917.jpg",
+        "car_photo_2": "photos/21/10/26/1902537043.jpg",
+        "car_photo_3": "photos/21/10/26/1902537077.jpg",
+        "car_photo_4": "photos/21/10/26/1902537082.jpg",
+        "features": "Cruise Control,Airbags,Air Conditioning,Power Steering,Direct Fuel Injection,Bluetooth Handset",
+        "body_style": "Sport",
+        "engine": "3.4L Mid-Engine V6",
+        "transmission": "Automatic",
+        "fuel_type": "Petrol",
+        "interior": "Grey",
+        "milage": 5,
+        "miles": 10000,
+        "doors": "2",
+        "passengers": 2,
+        "vin_no": "9zd9evcgzi",
+        "no_of_owners": "1",
+        "is_featured": true,
+        "created_date": "2021-10-26T05:06:51Z"
+    }
+},
+{
+    "model": "cars.car",
+    "pk": 2,
+    "fields": {
+        "car_title": "2017 Ford Edge",
+        "state": "OK",
+        "city": "Dallas",
+        "color": "Black",
+        "model": "EDGE",
+        "year": 2017,
+        "condition": "USED",
+        "price": 25000,
+        "description": "<p>The <strong>Ford Edge</strong> is a range of <a href=\"https://en.wikipedia.org/wiki/Crossover_(automobile)\" title=\"Crossover (automobile)\">crossover SUVs</a> manufactured by the <a href=\"https://en.wikipedia.org/wiki/Ford_Motor_Company\" title=\"Ford Motor Company\">Ford Motor Company</a>. Introduced for the 2007 model year, the Edge is the first <a class=\"mw-redirect\" href=\"https://en.wikipedia.org/wiki/Mid-size_CUV\" title=\"Mid-size CUV\">mid-size CUV</a> marketed by Ford in North America; the model line is currently in its second generation. Deriving its name from a trim package of the <a href=\"https://en.wikipedia.org/wiki/Ford_Ranger_(Americas)\" title=\"Ford Ranger (Americas)\">Ford Ranger</a>, the Ford Edge is positioned between the <a href=\"https://en.wikipedia.org/wiki/Ford_Escape\" title=\"Ford Escape\">Ford Escape</a> and the <a href=\"https://en.wikipedia.org/wiki/Ford_Explorer\" title=\"Ford Explorer\">Ford Explorer</a> within the Ford product line.</p>\r\n\r\n<p>Sharing its underpinnings with the <a href=\"https://en.wikipedia.org/wiki/Ford_Fusion_(Americas)\" title=\"Ford Fusion (Americas)\">Ford Fusion sedan</a>, Ford has also produced the model line as the <a href=\"https://en.wikipedia.org/wiki/Lincoln_MKX\" title=\"Lincoln MKX\">Lincoln MKX</a> (since 2019, the Lincoln Nautilus); the first generation was also produced as the <a href=\"https://en.wikipedia.org/wiki/Mazda_CX-9\" title=\"Mazda CX-9\">Mazda CX-9</a>. The second generation is also marketed by <a href=\"https://en.wikipedia.org/wiki/Ford_of_Europe\" title=\"Ford of Europe\">Ford of Europe</a>, positioned between the Kuga (Escape) and the Explorer PHEV.</p>\r\n\r\n<p>All production of the Ford Edge is sourced from <a href=\"https://en.wikipedia.org/wiki/Ford_Motor_Company_of_Canada\" title=\"Ford Motor Company of Canada\">Ford of Canada</a> at <a href=\"https://en.wikipedia.org/wiki/Oakville_Assembly\" title=\"Oakville Assembly\">Oakville Assembly</a> (<a href=\"https://en.wikipedia.org/wiki/Oakville,_Ontario\" title=\"Oakville, Ontario\">Oakville, Ontario</a>) alongside the Nautilus.</p>",
+        "car_photo": "photos/21/10/26/1901478607.jpg",
+        "car_photo_1": "photos/21/10/26/1901478618.jpg",
+        "car_photo_2": "photos/21/10/26/1901478646.jpg",
+        "car_photo_3": "photos/21/10/26/1901478672.jpg",
+        "car_photo_4": "photos/21/10/26/1901478687.jpg",
+        "features": "Cruise Control,Airbags,Alarm System,Auto Start/Stop,Bluetooth Handset",
+        "body_style": "SUV",
+        "engine": "3.4L Mid-Engine V7",
+        "transmission": "Automaticq",
+        "fuel_type": "Diesel",
+        "interior": "Grey",
+        "milage": 8,
+        "miles": 15000,
+        "doors": "5",
+        "passengers": 5,
+        "vin_no": "92zd9ehggzi",
+        "no_of_owners": "2",
+        "is_featured": true,
+        "created_date": "2021-10-26T05:15:18Z"
+    }
+},
+{
+    "model": "cars.car",
+    "pk": 3,
+    "fields": {
+        "car_title": "2017 Ford F-250 Super Duty",
+        "state": "CA",
+        "city": "Ohio",
+        "color": "Black",
+        "model": "F-250",
+        "year": 2017,
+        "condition": "USED",
+        "price": 30000,
+        "description": "<p>The <strong>Ford Super Duty</strong> (short for F-Series Super Duty) is a series of trucks manufactured by the <a href=\"https://en.wikipedia.org/wiki/Ford_Motor_Company\" title=\"Ford Motor Company\">Ford Motor Company</a>. Introduced in 1998 for the 1999 model year (the 1998 model year was skipped), the F-Series Super Duty trucks marked the addition of a heavy-duty pickup to the <a href=\"https://en.wikipedia.org/wiki/Ford_F-Series\" title=\"Ford F-Series\">Ford F-Series</a> range with the new versions of the F-250, F-350, and F-450 trucks, while the previous 1987&ndash;1997 F-Super Duty <a href=\"https://en.wikipedia.org/wiki/Chassis_cab\" title=\"Chassis cab\">chassis cabs</a> were replaced by the F-450 chassis cab and F-550 Super Duty.</p>\r\n\r\n<p>The Super Duty trucks use a distinct chassis from the lighter <a class=\"mw-redirect\" href=\"https://en.wikipedia.org/wiki/F-150\" title=\"F-150\">F-150</a>, with heavier-duty chassis and suspension components to allow for higher payload and towing capacities; additionally, the product line continued the use of <a href=\"https://en.wikipedia.org/wiki/Ford_Power_Stroke_engine\" title=\"Ford Power Stroke engine\">Ford PowerStroke</a> diesel engines. With a <a class=\"mw-redirect\" href=\"https://en.wikipedia.org/wiki/Gross_vehicle_weight_rating\" title=\"Gross vehicle weight rating\">GVWR</a> over 8,500&nbsp;lb (3,900&nbsp;kg), Super Duty pickups are <a href=\"https://en.wikipedia.org/wiki/Truck_classification\" title=\"Truck classification\">class 2 and 3</a> trucks, while chassis cab trucks are class 4 and class 5. The F-Series Super Duty has been used as the base chassis of the <a href=\"https://en.wikipedia.org/wiki/Ford_Excursion\" title=\"Ford Excursion\">Ford Excursion</a> full-sized SUV.</p>",
+        "car_photo": "photos/21/10/26/1900155133.jpg",
+        "car_photo_1": "photos/21/10/26/1900155012.jpg",
+        "car_photo_2": "photos/21/10/26/1894300920.jpg",
+        "car_photo_3": "photos/21/10/26/1894300905.jpg",
+        "car_photo_4": "photos/21/10/26/1894300894.jpg",
+        "features": "Cruise Control,Airbags,Alarm System,ParkAssist,Auto Start/Stop,Bluetooth Handset",
+        "body_style": "SUV",
+        "engine": "3.4L Mid-Engine V7",
+        "transmission": "Automatic",
+        "fuel_type": "Petrol",
+        "interior": "Grey",
+        "milage": 8,
+        "miles": 12000,
+        "doors": "4",
+        "passengers": 4,
+        "vin_no": "21gjl9ehggzi",
+        "no_of_owners": "1",
+        "is_featured": false,
+        "created_date": "2021-10-26T05:19:58Z"
+    }
+},
+{
+    "model": "cars.car",
+    "pk": 4,
+    "fields": {
+        "car_title": "2017 Jaguar F-PACE",
+        "state": "HI",
+        "city": "Austin",
+        "color": "Blue",
+        "model": "F-PACE",
+        "year": 2017,
+        "condition": "USED",
+        "price": 50000,
+        "description": "<p>The <strong>Jaguar F-Pace</strong> (X761) is a compact SUV made by <a href=\"https://en.wikipedia.org/wiki/Jaguar_Land_Rover\" title=\"Jaguar Land Rover\">Jaguar Land Rover</a>, a British <a class=\"mw-redirect\" href=\"https://en.wikipedia.org/wiki/Automaker\" title=\"Automaker\">car manufacturer</a>, under their <a href=\"https://en.wikipedia.org/wiki/Jaguar_Cars\" title=\"Jaguar Cars\">Jaguar marque</a>. It is the first model to be built by Jaguar in the SUV class. It was formally announced at the <a href=\"https://en.wikipedia.org/wiki/North_American_International_Auto_Show#2015\" title=\"North American International Auto Show\">2015 North American International Auto Show</a> in Detroit, with sales commencing in 2016 following an unveiling at the <a href=\"https://en.wikipedia.org/wiki/International_Motor_Show_Germany#2015\" title=\"International Motor Show Germany\">International Motor Show Germany</a> in Frankfurt in September 2015.<a href=\"https://en.wikipedia.org/wiki/Jaguar_F-Pace#cite_note-4\">[4]</a> The design of the F-Pace is based on the 2013 <a href=\"https://en.wikipedia.org/wiki/Jaguar_C-X17\" title=\"Jaguar C-X17\">Jaguar C-X17</a> concept car.<a href=\"https://en.wikipedia.org/wiki/Jaguar_F-Pace#cite_note-BBC_News_120115-5\">[5]</a> The 2017 Jaguar F-PACE has been named the honorary winner of the 2017 World Car of the Year and World Car Design of the Year Awards at the <a href=\"https://en.wikipedia.org/wiki/New_York_International_Auto_Show\" title=\"New York International Auto Show\">New York International Auto Show</a>.<a href=\"https://en.wikipedia.org/wiki/Jaguar_F-Pace#cite_note-6\">[6]</a></p>",
+        "car_photo": "photos/21/10/26/1902932542.jpg",
+        "car_photo_1": "photos/21/10/26/1902932528.jpg",
+        "car_photo_2": "photos/21/10/26/1902932514.jpg",
+        "car_photo_3": "photos/21/10/26/1902932503.jpg",
+        "car_photo_4": "",
+        "features": "Cruise Control,Airbags,Direct Fuel Injection,Bluetooth Handset",
+        "body_style": "SUV",
+        "engine": "3.4L Mid-Engine V4",
+        "transmission": "Automatic",
+        "fuel_type": "Diesel",
+        "interior": "Grey",
+        "milage": 10,
+        "miles": 13000,
+        "doors": "5",
+        "passengers": 3,
+        "vin_no": "92zd9ehdhf331zi",
+        "no_of_owners": "2",
+        "is_featured": true,
+        "created_date": "2021-10-26T05:23:36Z"
+    }
+},
+{
+    "model": "pages.team",
+    "pk": 2,
+    "fields": {
+        "first_name": "Martin",
+        "last_name": "smith",
+        "designation": "Founder",
+        "photo": "photos/2021/10/25/team_1.jpg",
+        "facebook_link": "https://www.facebook.com/",
+        "twitter_link": "https://twitter.com/",
+        "google_link": "https://www.google.com/",
+        "created_date": "2021-10-25T07:20:38.041Z"
+    }
+},
+{
+    "model": "pages.team",
+    "pk": 3,
+    "fields": {
+        "first_name": "Stone",
+        "last_name": "Carolyn",
+        "designation": "Creative",
+        "photo": "photos/2021/10/25/team_2.jpg",
+        "facebook_link": "https://www.facebook.com/",
+        "twitter_link": "https://twitter.com/",
+        "google_link": "https://www.google.com/",
+        "created_date": "2021-10-25T07:20:40.659Z"
+    }
+},
+{
+    "model": "pages.team",
+    "pk": 4,
+    "fields": {
+        "first_name": "Brandom",
+        "last_name": "Miller",
+        "designation": "co- founder",
+        "photo": "photos/2021/10/25/team_3.jpg",
+        "facebook_link": "https://www.facebook.com/",
+        "twitter_link": "https://twitter.com/",
+        "google_link": "https://www.google.com/",
+        "created_date": "2021-10-25T07:20:43.588Z"
+    }
+},
+{
+    "model": "pages.team",
+    "pk": 5,
+    "fields": {
+        "first_name": "John",
+        "last_name": "Doe",
+        "designation": "CEO",
+        "photo": "photos/2021/10/25/team_4.jpg",
+        "facebook_link": "https://www.facebook.com/",
+        "twitter_link": "https://twitter.com/",
+        "google_link": "https://www.google.com/",
+        "created_date": "2021-10-25T07:20:45.722Z"
+    }
+},
+{
+    "model": "pages.team",
+    "pk": 6,
+    "fields": {
+        "first_name": "Michelle",
+        "last_name": "Nilson",
+        "designation": "Support MAnager",
+        "photo": "photos/2021/10/25/team_4_tnpMcy3.jpg",
+        "facebook_link": "https://www.facebook.com/",
+        "twitter_link": "https://twitter.com/",
+        "google_link": "https://www.google.com/",
+        "created_date": "2021-10-25T07:20:48.032Z"
+    }
+},
+{
+    "model": "contacts.contact",
+    "pk": 3,
+    "fields": {
+        "firstname": "joe",
+        "lastname": "Doe",
+        "car_id": 2,
+        "customers_need": "I'd like to know your best price for this",
+        "car_title": "2017 Ford Edge",
+        "city": "Austin",
+        "state": "Texas",
+        "email": "joe@gmail.com",
+        "phone": "",
+        "message": "",
+        "user_id": 0,
+        "create_date": "2021-11-28T10:48:04.886Z"
+    }
+},
+{
+    "model": "contacts.contact",
+    "pk": 4,
+    "fields": {
+        "firstname": "Brandom",
+        "lastname": "Miller",
+        "car_id": 2,
+        "customers_need": "I'd like to know your best price for this",
+        "car_title": "2017 Ford Edge",
+        "city": "Austin",
+        "state": "Texas",
+        "email": "brandom@gmail.com",
+        "phone": "",
+        "message": "",
+        "user_id": 1,
+        "create_date": "2021-11-28T10:51:06.417Z"
+    }
+},
+{
+    "model": "contacts.contact",
+    "pk": 5,
+    "fields": {
+        "firstname": "joel",
+        "lastname": "k",
+        "car_id": 4,
+        "customers_need": "I'm interested in this",
+        "car_title": "2017 Jaguar F-PACE",
+        "city": "Austin",
+        "state": "Texas",
+        "email": "joel@gmail.com",
+        "phone": "",
+        "message": "",
+        "user_id": 3,
+        "create_date": "2021-11-28T11:05:05.820Z"
+    }
+},
+{
+    "model": "contacts.contact",
+    "pk": 6,
+    "fields": {
+        "firstname": "joel",
+        "lastname": "k",
+        "car_id": 2,
+        "customers_need": "I'd like to know your best price for this",
+        "car_title": "2017 Ford Edge",
+        "city": "Austin",
+        "state": "Texas",
+        "email": "joel@gmail.com",
+        "phone": "",
+        "message": "",
+        "user_id": 3,
+        "create_date": "2021-11-28T11:05:52.250Z"
+    }
+},
+{
+    "model": "contacts.contact",
+    "pk": 7,
+    "fields": {
+        "firstname": "joel",
+        "lastname": "k",
+        "car_id": 1,
+        "customers_need": "I'm interested in this",
+        "car_title": "2017 Ferrari 488 GTB",
+        "city": "Austin",
+        "state": "Texas",
+        "email": "joel@gmail.com",
+        "phone": "",
+        "message": "test",
+        "user_id": 3,
+        "create_date": "2021-11-28T11:26:15.067Z"
+    }
+},
+{
+    "model": "auth.user",
+    "fields": {
+        "password": "pbkdf2_sha256$260000$8Zz1dm6oZB8yEI5lPvNyHM$WqEP2kwl1NIh5uoC6O6G+dwhbdcxYUxgqg6S3BcLENo=",
+        "last_login": "2021-11-28T10:48:35Z",
+        "is_superuser": true,
+        "username": "anshul",
+        "first_name": "",
+        "last_name": "",
+        "email": "anshul.bansod2@gmail.com",
+        "is_staff": true,
+        "is_active": true,
+        "date_joined": "2021-10-24T19:41:58Z",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "auth.user",
+    "fields": {
+        "password": "pbkdf2_sha256$260000$JNviSlgKvRBJbz67ISv7In$2AB1nlR5eKdsNpVoIgETvNN4FOatSWFCMXMd0Emcto0=",
+        "last_login": null,
+        "is_superuser": false,
+        "username": "john",
+        "first_name": "john",
+        "last_name": "hegh",
+        "email": "john@gmail.com",
+        "is_staff": false,
+        "is_active": true,
+        "date_joined": "2021-11-27T10:46:37.770Z",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "auth.user",
+    "fields": {
+        "password": "pbkdf2_sha256$260000$yrwTuGP3QbOPsxrKBZ7eki$TtLvhLWzdO4A4H7anx1l+5zUnIyU7RyhA4gLX4SPcH0=",
+        "last_login": "2021-11-28T11:04:32.281Z",
+        "is_superuser": false,
+        "username": "joe",
+        "first_name": "joel",
+        "last_name": "k",
+        "email": "joel@gmail.com",
+        "is_staff": false,
+        "is_active": true,
+        "date_joined": "2021-11-27T10:53:22.297Z",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "auth.user",
+    "fields": {
+        "password": "!WkKTnBhT47ahYJVjtlwBBbnUTqLih6qVfciLZ2BF",
+        "last_login": "2021-11-27T12:17:28.339Z",
+        "is_superuser": false,
+        "username": "anshul4",
+        "first_name": "Anshul",
+        "last_name": "Bansod",
+        "email": "",
+        "is_staff": false,
+        "is_active": true,
+        "date_joined": "2021-11-27T11:53:58.270Z",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "auth.user",
+    "fields": {
+        "password": "!APtbEstBY9AeERzlIOm6S6Q9Vx5no5BQqj2SDOnP",
+        "last_login": "2021-11-27T12:17:35.828Z",
+        "is_superuser": false,
+        "username": "anshul9",
+        "first_name": "Anshul",
+        "last_name": "Bansod",
+        "email": "",
+        "is_staff": false,
+        "is_active": true,
+        "date_joined": "2021-11-27T12:10:16.753Z",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "sessions.session",
+    "pk": "4o4tvian3pw355odsmng70eesqf5vkme",
+    "fields": {
+        "session_data": ".eJxVjMsOwiAQRf-FtSHA4FBcuu83kBkeUjU0Ke3K-O_apAvd3nPOfYlA21rD1vMSpiQuQovT78YUH7ntIN2p3WYZ57YuE8tdkQftcpxTfl4P9--gUq_felDZowH07KJOyhEYr89gNCFYZdkYTK5kRgu62IFUzKSRmKE4TzGJ9we3FTeN:1mejO1:AYfdWDlKJ5pPHNzGTEOf3EWn3-t-lkQwmwrtl53bEA4",
+        "expire_date": "2021-11-07T19:42:29.354Z"
+    }
+},
+{
+    "model": "sessions.session",
+    "pk": "6vhnyr7x1im9nce4ietdoaq766wydq6r",
+    "fields": {
+        "session_data": ".eJxVjMsOwiAQRf-FtSHA4FBcuu83kBkeUjU0Ke3K-O_apAvd3nPOfYlA21rD1vMSpiQuQovT78YUH7ntIN2p3WYZ57YuE8tdkQftcpxTfl4P9--gUq_felDZowH07KJOyhEYr89gNCFYZdkYTK5kRgu62IFUzKSRmKE4TzGJ9we3FTeN:1mrHjX:533E9uPk7AAXrlhK4_RJQszuUzDDxvrwZCd0ukMZfLo",
+        "expire_date": "2021-12-12T10:48:35.447Z"
+    }
+},
+{
+    "model": "sessions.session",
+    "pk": "jeza9emwojynw7f3zlsccg8qhvxojeuc",
+    "fields": {
+        "session_data": ".eJxVjEEOwiAQRe_C2hAqzFBcuu8ZCMOAVA0kpV0Z765NutDtf-_9l_BhW4vfelr8zOIitDj9bhTiI9Ud8D3UW5Ox1XWZSe6KPGiXU-P0vB7u30EJvXzrRHp0GUAB4tlgZCTDwZJ1hKC0Djwq6wbUZFTOBjMMHJPTNgNHUEa8P9NbN4Q:1mrHyy:s7kR9gNhKepAT_q6De1OtqnmR_vgtva1mpQ2rrqeyQY",
+        "expire_date": "2021-12-12T11:04:32.285Z"
+    }
+},
+{
+    "model": "sites.site",
+    "fields": {
+        "domain": "localhost:8000",
+        "name": "localhost:8000"
+    }
+},
+{
+    "model": "socialaccount.socialapp",
+    "pk": 1,
+    "fields": {
+        "provider": "facebook",
+        "name": "Facebook login",
+        "client_id": "572451757175719",
+        "secret": "7d70bc09e0e573863f3e465cbc7cb169",
+        "key": "",
+        "sites": [
+            [
+                "localhost:8000"
+            ]
+        ]
+    }
+},
+{
+    "model": "socialaccount.socialapp",
+    "pk": 2,
+    "fields": {
+        "provider": "google",
+        "name": "Google Login",
+        "client_id": "720032645004-ht6gjpf9rmupvmnv183pc903jaqci9ui.apps.googleusercontent.com",
+        "secret": "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",
+        "key": "",
+        "sites": [
+            [
+                "localhost:8000"
+            ]
+        ]
+    }
+},
+{
+    "model": "socialaccount.socialaccount",
+    "pk": 1,
+    "fields": {
+        "user": [
+            "anshul4"
+        ],
+        "provider": "facebook",
+        "uid": "4573855002697235",
+        "last_login": "2021-11-27T12:17:28.320Z",
+        "date_joined": "2021-11-27T11:53:58.285Z",
+        "extra_data": "{\"id\": \"4573855002697235\", \"name\": \"Anshul Bansod\", \"first_name\": \"Anshul\", \"last_name\": \"Bansod\"}"
+    }
+},
+{
+    "model": "socialaccount.socialaccount",
+    "pk": 2,
+    "fields": {
+        "user": [
+            "anshul9"
+        ],
+        "provider": "google",
+        "uid": "108283221712025743171",
+        "last_login": "2021-11-27T12:17:35.806Z",
+        "date_joined": "2021-11-27T12:10:16.775Z",
+        "extra_data": "{\"id\": \"108283221712025743171\", \"name\": \"Anshul Bansod\", \"given_name\": \"Anshul\", \"family_name\": \"Bansod\", \"picture\": \"https://lh3.googleusercontent.com/a/AATXAJydhfQs60CLbbTXjN1h6uzgUULWRJr7upbr6xP60GQ=s96-c\", \"locale\": \"en\"}"
+    }
+},
+{
+    "model": "socialaccount.socialtoken",
+    "pk": 1,
+    "fields": {
+        "app": 1,
+        "account": 1,
+        "token": "EAAIIpEZBjM6cBAHZCzk1y4ZC8d9ZCxgLoFZCeLmIuCTipeHlnLgfYMmTFlpe7dXsIcX7ZBUvE1sZADZBh4mtOfuhOHsZC3snVez6OkhapjZCPszuDyyTYEIJWtgqAnNiJHZCSyqnTWZCovb6OYrBlnLWuOHA5DbCapvhi5rZBEZAFNZANzh5jOoxdy38ZCvaIuZChefeA3uH3BemAVP8Nv1zBzrLkysmo",
+        "token_secret": "",
+        "expires_at": null
+    }
+},
+{
+    "model": "socialaccount.socialtoken",
+    "pk": 2,
+    "fields": {
+        "app": 2,
+        "account": 2,
+        "token": "ya29.a0ARrdaM_VdVXA0rf62VbSUvfIPJ5zsRarQFOJiOln7ysmOdYYWszWCoHFtaKx70bYbFg7LjAp8BFiXdAZfurh2myu_oMOfnpuyiay2DIBJ0BjX0Js8Kmk88yON8FZ9ujkcxFCu37yXRl5LIJ3TqYCEdVBs29t",
+        "token_secret": "",
+        "expires_at": "2021-11-27T13:17:34.512Z"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 1,
+    "fields": {
+        "action_time": "2021-10-24T19:58:30.847Z",
+        "user": [
+            "anshul"
+        ],
+        "content_type": [
+            "pages",
+            "team"
+        ],
+        "object_id": "1",
+        "object_repr": "Team object (1)",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 2,
+    "fields": {
+        "action_time": "2021-10-25T06:59:51.572Z",
+        "user": [
+            "anshul"
+        ],
+        "content_type": [
+            "pages",
+            "team"
+        ],
+        "object_id": "1",
+        "object_repr": "test",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Photo\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 3,
+    "fields": {
+        "action_time": "2021-10-25T07:00:52.886Z",
+        "user": [
+            "anshul"
+        ],
+        "content_type": [
+            "pages",
+            "team"
+        ],
+        "object_id": "1",
+        "object_repr": "test",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 4,
+    "fields": {
+        "action_time": "2021-10-25T07:03:02.067Z",
+        "user": [
+            "anshul"
+        ],
+        "content_type": [
+            "pages",
+            "team"
+        ],
+        "object_id": "2",
+        "object_repr": "Martin",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 5,
+    "fields": {
+        "action_time": "2021-10-25T07:03:50.125Z",
+        "user": [
+            "anshul"
+        ],
+        "content_type": [
+            "pages",
+            "team"
+        ],
+        "object_id": "3",
+        "object_repr": "Stone",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 6,
+    "fields": {
+        "action_time": "2021-10-25T07:04:27.815Z",
+        "user": [
+            "anshul"
+        ],
+        "content_type": [
+            "pages",
+            "team"
+        ],
+        "object_id": "4",
+        "object_repr": "Brandom",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 7,
+    "fields": {
+        "action_time": "2021-10-25T07:04:52.518Z",
+        "user": [
+            "anshul"
+        ],
+        "content_type": [
+            "pages",
+            "team"
+        ],
+        "object_id": "5",
+        "object_repr": "John",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 8,
+    "fields": {
+        "action_time": "2021-10-25T07:05:23.948Z",
+        "user": [
+            "anshul"
+        ],
+        "content_type": [
+            "pages",
+            "team"
+        ],
+        "object_id": "6",
+        "object_repr": "Michelle",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 9,
+    "fields": {
+        "action_time": "2021-10-25T07:20:38.042Z",
+        "user": [
+            "anshul"
+        ],
+        "content_type": [
+            "pages",
+            "team"
+        ],
+        "object_id": "2",
+        "object_repr": "Martin",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Facebook link\", \"Twitter link\", \"Google link\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 10,
+    "fields": {
+        "action_time": "2021-10-25T07:20:40.660Z",
+        "user": [
+            "anshul"
+        ],
+        "content_type": [
+            "pages",
+            "team"
+        ],
+        "object_id": "3",
+        "object_repr": "Stone",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Facebook link\", \"Twitter link\", \"Google link\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 11,
+    "fields": {
+        "action_time": "2021-10-25T07:20:43.590Z",
+        "user": [
+            "anshul"
+        ],
+        "content_type": [
+            "pages",
+            "team"
+        ],
+        "object_id": "4",
+        "object_repr": "Brandom",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Facebook link\", \"Twitter link\", \"Google link\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 12,
+    "fields": {
+        "action_time": "2021-10-25T07:20:45.723Z",
+        "user": [
+            "anshul"
+        ],
+        "content_type": [
+            "pages",
+            "team"
+        ],
+        "object_id": "5",
+        "object_repr": "John",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Facebook link\", \"Twitter link\", \"Google link\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 13,
+    "fields": {
+        "action_time": "2021-10-25T07:20:48.034Z",
+        "user": [
+            "anshul"
+        ],
+        "content_type": [
+            "pages",
+            "team"
+        ],
+        "object_id": "6",
+        "object_repr": "Michelle",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Facebook link\", \"Twitter link\", \"Google link\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 14,
+    "fields": {
+        "action_time": "2021-10-26T05:14:16.007Z",
+        "user": [
+            "anshul"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "1",
+        "object_repr": "Car object (1)",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 15,
+    "fields": {
+        "action_time": "2021-10-26T05:15:00.357Z",
+        "user": [
+            "anshul"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "1",
+        "object_repr": "Car object (1)",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Car photo 1\", \"Car photo 2\", \"Car photo 3\", \"Car photo 4\", \"Doors\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 16,
+    "fields": {
+        "action_time": "2021-10-26T05:19:45.501Z",
+        "user": [
+            "anshul"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "2",
+        "object_repr": "Car object (2)",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 17,
+    "fields": {
+        "action_time": "2021-10-26T05:23:25.771Z",
+        "user": [
+            "anshul"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "3",
+        "object_repr": "Car object (3)",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 18,
+    "fields": {
+        "action_time": "2021-10-26T05:23:33.919Z",
+        "user": [
+            "anshul"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "2",
+        "object_repr": "Car object (2)",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Fuel type\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 19,
+    "fields": {
+        "action_time": "2021-10-26T05:26:39.453Z",
+        "user": [
+            "anshul"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "4",
+        "object_repr": "Car object (4)",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 20,
+    "fields": {
+        "action_time": "2021-11-27T11:47:28.347Z",
+        "user": [
+            "anshul"
+        ],
+        "content_type": [
+            "socialaccount",
+            "socialapp"
+        ],
+        "object_id": "1",
+        "object_repr": "Facebook login",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 21,
+    "fields": {
+        "action_time": "2021-11-27T11:48:31.218Z",
+        "user": [
+            "anshul"
+        ],
+        "content_type": [
+            "sites",
+            "site"
+        ],
+        "object_id": "1",
+        "object_repr": "localhost:8000",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Domain name\", \"Display name\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 22,
+    "fields": {
+        "action_time": "2021-11-27T12:04:46.805Z",
+        "user": [
+            "anshul"
+        ],
+        "content_type": [
+            "socialaccount",
+            "socialapp"
+        ],
+        "object_id": "2",
+        "object_repr": "Google Login",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 23,
+    "fields": {
+        "action_time": "2021-11-28T11:18:03.889Z",
+        "user": [
+            "anshul"
+        ],
+        "content_type": [
+            "auth",
+            "user"
+        ],
+        "object_id": "1",
+        "object_repr": "anshul",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Email address\"]}}]"
+    }
+}
+]
